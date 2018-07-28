@@ -1,0 +1,8 @@
+﻿  Controller.cpp
+c:\users\jamshidjon\source\repos\oop-2 project [u1710260 and u1710275]\oop-2 project [u1710260 and u1710275]\controller.cpp(192): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\jamshidjon\source\repos\oop-2 project [u1710260 and u1710275]\oop-2 project [u1710260 and u1710275]\controller.cpp(315): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\jamshidjon\source\repos\oop-2 project [u1710260 and u1710275]\oop-2 project [u1710260 and u1710275]\controller.cpp(368): warning C4101: 'c': unreferenced local variable
+c:\users\jamshidjon\source\repos\oop-2 project [u1710260 and u1710275]\oop-2 project [u1710260 and u1710275]\controller.cpp(860): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\jamshidjon\source\repos\oop-2 project [u1710260 and u1710275]\oop-2 project [u1710260 and u1710275]\controller.cpp(915): warning C4065: switch statement contains 'default' but no 'case' labels
+  OOP-2 Project [U1710260 and U1710275].vcxproj -> C:\Users\Jamshidjon\source\repos\OOP-2 Project [U1710260 and U1710275]\Debug\OOP-2 Project [U1710260 and U1710275].exe
+  OOP-2 Project [U1710260 and U1710275].vcxproj -> C:\Users\Jamshidjon\source\repos\OOP-2 Project [U1710260 and U1710275]\Debug\OOP-2 Project [U1710260 and U1710275].pdb (Partial PDB)
